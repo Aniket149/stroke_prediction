@@ -28,5 +28,12 @@ we selected 8 best features for model creation. The following features are selec
 
 # Model Creation
 
-This is classificaication 
+This is classificaication problem. we have to predict patients are having stroke or not. we used classification algorithms. The random forest algorithm gives better accuracy. so we create model using random forest.
+Model Accuracy - 99.97%
+
+# Model Deployment
+
+We create application using Flask and deploy it on heroku.
+application link - https://stroke-api.herokuapp.com/
+
 
